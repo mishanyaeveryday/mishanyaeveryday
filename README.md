@@ -8,4 +8,24 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <div align="left">
+<div id="about" style="text-align: left;">
+  <h2 style="font-weight: bold; font-size: 24px;">👨‍💻 About Me :</h2>
+  
+  I am a C++ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦
+  
+- :telescope: I’m currently studying at Maritime University in Szczecin, Poland 🇵🇱, where I'm focusing on Computer Science.
+
+- :zap:  In my free time, I enjoy solving problems on LeetCode, which helps me sharpen my coding skills and think algorithmically. I also love going to the gym to stay active and maintain a healthy work-life balance.
 </div>
+
+### :hammer_and_wrench: Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+</div>
+</div>
+
