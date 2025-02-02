@@ -14,7 +14,7 @@
 <div id="about" style="text-align: left;">
   <h2 style="font-weight: bold; font-size: 24px;">👨‍💻 About Me :</h2>
   
-  I am a C++ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦
+  I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦
   
 - :telescope: I’m currently studying at Maritime University in Szczecin, Poland 🇵🇱, where I'm focusing on Computer Science.
 
