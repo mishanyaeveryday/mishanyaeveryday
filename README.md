@@ -18,8 +18,7 @@ Szczecin, Poland 🇵🇱 · from Ukraine 🇺🇦
 
 ### About
 
-I build systems where an LLM is a component, not the product — retrieval, evaluation,
-orchestration and the plumbing that makes them survive real documents and real users.
+I build LLM-based systems: RAG pipelines, multi-agent workflows and the evaluation and validation around them.
 
 🎓 Computer Science @ Maritime University of Szczecin — final year
 
@@ -57,7 +56,7 @@ orchestration and the plumbing that makes them survive real documents and real u
 
 ### Public work
 
-Most of what I work on is private — client code, and my own products.
+Most of what I work on is privateё.
 These are the ones I can show:
 
 **[coreText](https://github.com/mishanyaeveryday/coreText)** — Ctrl+F by meaning
