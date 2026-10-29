@@ -18,14 +18,13 @@ Szczecin, Poland 🇵🇱 · from Ukraine 🇺🇦
 
 ### About
 
-I build LLM-based systems: RAG pipelines, multi-agent workflows and the evaluation and validation around them.
+I build LLM-based systems: RAG pipelines, multi-agent workflows, MCP-based agents and the evaluation and validation around them.
 
 🎓 Computer Science @ Maritime University of Szczecin — final year
 
 ---
 
 ### Tech
-
 
 **Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -39,6 +38,7 @@ I build LLM-based systems: RAG pipelines, multi-agent workflows and the evaluati
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 ![Dify](https://img.shields.io/badge/Dify-1C64F2?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -56,8 +56,18 @@ I build LLM-based systems: RAG pipelines, multi-agent workflows and the evaluati
 
 ### Public work
 
-Most of what I work on is privateё.
+Most of what I work on is private.
 These are the ones I can show:
+
+**[AI Assistant](https://github.com/mishanyaeveryday/ai-assistant)** — a desktop agent that acts on your machine
+Turns natural-language requests into real actions through 6 MCP servers: web search,
+file system, terminal, screenshots, mouse/keyboard control and a Python sandbox.
+Hand-written agent loop with multi-round tool calling, per-chat memory and fallback
+models. Risky actions wait for your approval in the chat, generated code runs in an
+isolated Docker container, and you can plug in your own MCP servers (credentials
+stored encrypted).
+`Python` · `PySide6` · `MCP` · `OpenRouter` · `Docker` · `SQLite`
+*Graduation project, 2026 — in progress*
 
 **[coreText](https://github.com/mishanyaeveryday/coreText)** — Ctrl+F by meaning
 Chrome extension that finds passages by what they mean, not by exact words. Type
@@ -72,10 +82,6 @@ randomized slots, 30% of them placebo, blinded until the experiment ends, then
 effectiveness compared against the control. Django REST backend, React frontend,
 three languages.
 `Django` · `DRF` · `PostgreSQL` · `React` · `TypeScript` · `JWT`
-
-**[Shadowsteam](https://github.com/Unity-PM/PSM_s2_L01_Shadowsteam)** — Unity game
-Built with a team of four at university.
-`Unity` · `C#`
 
 ### Languages
 
